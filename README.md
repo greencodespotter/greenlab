@@ -41,3 +41,7 @@
 - https://greenlab.di.uminho.pt/
 - https://www.ifi.uzh.ch/en/isr.html, https://files.ifi.uzh.ch/hilty/t/examples/bachelor/Energy_Efficient_Programming_G%C3%B6kkus.pdf
 - https://www.umwelt-campus.de/forschung/projekte/green-software-engineering/home/
+
+## conferences
+
+- http://ict4s.org/
